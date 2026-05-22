@@ -6,12 +6,10 @@
 
 ##  Integrantes
 
-| Nome | RM |
-|---|---|
-| Leonardo Luster Gomes | RM564448 |
-| Raphael Talarico | RM565219 |
-| Nelson Troccoli | RM562815 |
-| Kauã da Silva | RM564625 |
+* Leonardo Luster Gomes
+* Raphael Talarico
+* Nelson Troccoli
+* Kauã da Silva
 
 ---
 
