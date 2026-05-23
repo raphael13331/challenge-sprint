@@ -39,6 +39,7 @@ As frentes de conservação da Motiva enfrentam dificuldades no registro padroni
 
 ---
 
+
 ## 💡 Proposta de Solução
 
 **VegTrack** é um aplicativo mobile (Android/iOS) voltado ao operador de campo que permite:
@@ -51,7 +52,17 @@ As frentes de conservação da Motiva enfrentam dificuldades no registro padroni
 O foco é na **simplicidade e agilidade do fluxo de campo**: o operador abre o app, bate a foto, classifica, confirma a localização e envia — em menos de 30 segundos.
 
 ---
+### Requisitos Funcionais (RF)
 
+* RF01: Permitir autenticação do usuário
+* RF02: Permitir o cadastro de novos registros
+* RF03: Permitir a captura de fotos pelo dispositivo
+* RF04: Registrar automaticamente a localização do usuário
+* RF05: Permitir a classificação do tipo de vegetação ou problema
+* RF06: Armazenar os registros realizados
+* RF07: Exibir o histórico de registros
+* RF08: Permitir a visualização dos registros em mapa
+ ---
 
 ## 🎨 Protótipo Navegável (Figma)
 
