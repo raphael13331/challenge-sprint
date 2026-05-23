@@ -14,7 +14,12 @@
 | Kauã da Silva | RM564625 |
 
 ---
+## Sobre o Projeto
 
+Este projeto consiste no desenvolvimento de um aplicativo mobile no contexto do Challenge CCR Motiva, com o objetivo de aprimorar o processo de monitoramento e gestão da vegetação nas rodovias concedidas.
+
+Atualmente, esse processo é realizado de forma manual e descentralizada, o que dificulta o controle das ocorrências, a padronização das informações e a tomada de decisão por parte dos gestores. A proposta do projeto é digitalizar esse fluxo, tornando-o mais eficiente, rastreável e confiável.
+---
 ## 🚨 Problema Escolhido
 
 As frentes de conservação da Motiva enfrentam dificuldades no registro padronizado de ocorrências de vegetação ao longo das rodovias concedidas. O processo atual é fragmentado: operadores de campo utilizam anotações manuais, comunicações por rádio/WhatsApp e registros em papel, o que gera:
