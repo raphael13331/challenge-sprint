@@ -43,7 +43,14 @@ As frentes de conservação da Motiva enfrentam dificuldades no registro padroni
 - Necessidade: um app simples, rápido e que funcione mesmo com sinal instável de internet
 
 ---
+#### Necessidades
 
+* Registrar ocorrências de forma rápida e prática
+* Utilizar uma ferramenta simples no dispositivo móvel
+* Garantir armazenamento correto das informações
+* Reduzir retrabalho e erros
+
+---
 
 ## 💡 Proposta de Solução
 
