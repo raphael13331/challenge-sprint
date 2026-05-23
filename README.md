@@ -86,30 +86,6 @@ Ver arquivo [`REQUISITOS.md`](./REQUISITOS.md)
 
 ---
 
-##  Estrutura do Repositório
 
-```
-vegtrack/
-├── README.md
-├── REQUISITOS.md
-├── docs/
-│   ├── persona.md
-│   └── arquitetura.md
-├── src/
-│   ├── screens/
-│   ├── components/
-│   ├── services/
-│   └── navigation/
-├── assets/
-└── app.json
-```
-
----
-
-## 📌 Contexto Regulatório
-
-A solução foi desenhada considerando as exigências de conservação de faixa de domínio previstas nos contratos de concessão fiscalizados pela **ARTESP** (rodovias estaduais SP) e **ANTT** (rodovias federais), que determinam padrões mínimos de altura de vegetação, prazos de intervenção e registro de evidências fotográficas das operações de conservação.
-
----
 
 *Sprint 1 — Challenge CCR Motiva | FIAP 2025*
