@@ -1,19 +1,21 @@
-#  VegTrack — Registro de Ocorrências de Vegetação em Rodovias
+# 🌿 VegTrack — Registro de Ocorrências de Vegetação em Rodovias
 
 > Solução mobile para operadores de campo no monitoramento e registro de ocorrências de vegetação nas rodovias concedidas da Motiva (CCR).
 
 ---
 
-##  Integrantes
+## 👥 Integrantes
 
-* Leonardo Luster Gomes
-* Raphael Talarico
-* Nelson Troccoli
-* Kauã da Silva
+| Nome | RM |
+|---|---|
+| Leonardo Luster Gomes | RM564448 |
+| Raphael Talarico | RM565219 |
+| Nelson Troccoli | RM562815 |
+| Kauã da Silva | RM564625 |
 
 ---
 
-##  Problema Escolhido
+## 🚨 Problema Escolhido
 
 As frentes de conservação da Motiva enfrentam dificuldades no registro padronizado de ocorrências de vegetação ao longo das rodovias concedidas. O processo atual é fragmentado: operadores de campo utilizam anotações manuais, comunicações por rádio/WhatsApp e registros em papel, o que gera:
 
@@ -25,7 +27,7 @@ As frentes de conservação da Motiva enfrentam dificuldades no registro padroni
 
 ---
 
-##  Persona Principal
+## 👤 Persona Principal
 
 **Carlos Eduardo, 34 anos — Operador de Campo**
 
@@ -37,7 +39,7 @@ As frentes de conservação da Motiva enfrentam dificuldades no registro padroni
 
 ---
 
-##  Proposta de Solução
+## 💡 Proposta de Solução
 
 **VegTrack** é um aplicativo mobile (Android/iOS) voltado ao operador de campo que permite:
 
@@ -50,7 +52,7 @@ O foco é na **simplicidade e agilidade do fluxo de campo**: o operador abre o a
 
 ---
 
-## Stack Tecnológica e Justificativa
+## 🛠️ Stack Tecnológica e Justificativa
 
 | Tecnologia | Papel | Justificativa |
 |---|---|---|
@@ -72,20 +74,16 @@ A Motiva opera em múltiplas concessões com frota de dispositivos variada (Andr
 
 ---
 
-##  Documento de Requisitos
+## 📋 Documento de Requisitos
 
 Ver arquivo [`REQUISITOS.md`](./REQUISITOS.md)
 
 ---
 
-##  Protótipo Navegável (Figma)
+## 🎨 Protótipo Navegável (Figma)
 
-🔗 **[Acessar Protótipo no Figma](#)** ← *(substituir pelo link real após publicação)*
+🔗 **[Acessar Protótipo no Figma](https://www.figma.com/proto/DnZ2DDJSj2KItkNOfpQXNP/Sem-t%C3%ADtulo?node-id=5-6&starting-point-node-id=3%3A2)**
 
-> O protótipo cobre os fluxos principais: Login → Dashboard do Operador → Nova Ocorrência (foto + classificação + GPS) → Confirmação → Histórico de Registros.
+> O protótipo cobre os fluxos principais: Login → Registro de Ocorrência (foto + classificação + GPS) → Histórico de Registros.
 
 ---
-
-
-
-*Sprint 1 — Challenge CCR Motiva | FIAP 2025*
